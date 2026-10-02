@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +217,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+>>>>>>> 9b876b3 (feat: adiciona password security tool)
